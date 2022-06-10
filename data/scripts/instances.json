@@ -1,0 +1,5 @@
+{
+  "cluster0.SuccessfulCompany.com": {
+    "ssh": {"port": "7022","username": "root","password": "toor"}
+  }
+}
