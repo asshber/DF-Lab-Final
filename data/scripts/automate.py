@@ -2,6 +2,8 @@ import os
 import fabric
 import json
 
+#pehli baar script normally chalay gi lekin kuch output nhi aye ga dusri baar line 20 comment hogi aur phir files banay gi.
+
 # To connect 
 # mysql -u {username} -p'{password}' \
 #     -h {remote server ip or name} -P {port} \
